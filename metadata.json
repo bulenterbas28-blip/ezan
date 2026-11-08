@@ -1,0 +1,6 @@
+{
+  "name": "Ezan Vakti",
+  "description": "Türkiye 81 il ezan vakitleri, WorkManager arka plan bildirimleri, Kur'an-ı Kerim okuma ve dinleme, namaz sure ve duaları, kıble pusulası ve zikirmatik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
